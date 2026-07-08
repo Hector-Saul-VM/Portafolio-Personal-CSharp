@@ -4,7 +4,6 @@
     {
         static void Main(string[] args)
         {
-
             int opColor = 0;
 
             do
@@ -25,11 +24,9 @@
                     Console.WriteLine("\nOpción inválida. Presiona cualquier tecla para intentar de nuevo...");
                     Console.ReadKey();
                 }
-
             }
             while (opColor <1 || opColor > 3); //se repite si esta fuera del rango 1 a 3
                 
-
             switch (opColor)
             {
                 case 1:                                         
