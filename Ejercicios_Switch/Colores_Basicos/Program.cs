@@ -16,7 +16,7 @@
                 {
                     Console.WriteLine("Debes de ingresar un color \n");
                 }
-
+                
             } while (string.IsNullOrWhiteSpace(infoColor));
 
 
