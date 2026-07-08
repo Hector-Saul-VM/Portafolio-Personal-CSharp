@@ -36,10 +36,10 @@
                     Console.WriteLine("el código RGB para el color {0} es: 0,255,0 ", opColor);
                     break;
                 case 3:
-                    Console.WriteLine("el codigo RGB para el color {0} es: 0,0,255", opColor);
+                    Console.WriteLine("el código RGB para el color {0} es: 0,0,255", opColor);
                     break;
                 default:
-                    Console.WriteLine("el color {0}, que usted escogio no tiene codigo RGB intenta de nuevo:",opColor);
+                    Console.WriteLine("el color {0}, que usted escogió no tiene código RGB intenta de nuevo:",opColor);
                     break;
             }
             Console.ReadKey();
