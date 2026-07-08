@@ -2,6 +2,7 @@
 {
     internal class Program
     {
+        //nuevo comentario 
         static void Main(string[] args)
         {
             int opColor = 0;
