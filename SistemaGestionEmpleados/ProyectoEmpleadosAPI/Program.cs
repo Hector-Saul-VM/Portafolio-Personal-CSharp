@@ -1,3 +1,7 @@
+using Microsoft.EntityFrameworkCore;
+using ProyectoEmpleadosAPI.Datos;
+using ProyectoEmpleadosAPI.Interfaces;
+using ProyectoEmpleadosAPI.Servicios;
 
 namespace ProyectoEmpleadosAPI
 {
@@ -6,6 +10,12 @@ namespace ProyectoEmpleadosAPI
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
+            //REGISTRAR EL DbContext 
+            builder.Services.AddDbContext<ApplicationDbContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+            builder.Services.AddScoped<IEmpleadoService, EmpleadoService>();
 
             // Add services to the container.
 
