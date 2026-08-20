@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivisionCorrecta", "Divisio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioLogicaFizzBuzz", "EjercicioLogicaFizzBuzz\EjercicioLogicaFizzBuzz.csproj", "{40ED7FC5-2632-438A-A987-BBC3BA99CB15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioNumeroPrimo", "EjercicioNumeroPrimo\EjercicioNumeroPrimo.csproj", "{29DBFC0C-9E61-4D12-9F72-9091C14F4B36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{40ED7FC5-2632-438A-A987-BBC3BA99CB15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40ED7FC5-2632-438A-A987-BBC3BA99CB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40ED7FC5-2632-438A-A987-BBC3BA99CB15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29DBFC0C-9E61-4D12-9F72-9091C14F4B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29DBFC0C-9E61-4D12-9F72-9091C14F4B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29DBFC0C-9E61-4D12-9F72-9091C14F4B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29DBFC0C-9E61-4D12-9F72-9091C14F4B36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
