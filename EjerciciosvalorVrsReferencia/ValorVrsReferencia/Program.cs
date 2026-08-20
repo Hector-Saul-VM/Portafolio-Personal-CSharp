@@ -1,4 +1,12 @@
-﻿namespace ValorVrsReferencia
+﻿/*
+Héctor Vega
+Fecha: 20/08/2026
+Ejercicio: Tipos por Valor vs Tipos por Referencia
+Demuestra la diferencia de comportamiento entre tipos por valor (int)
+y tipos por referencia (arreglos) al asignarlos a otra variable.
+*/
+
+namespace ValorVrsReferencia
 {
     internal class Program
     {
