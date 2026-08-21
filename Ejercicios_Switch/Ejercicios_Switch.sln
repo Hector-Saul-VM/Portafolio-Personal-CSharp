@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codigos_RGB", "Codigos_RGB\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadoraEjercicio", "CalculadoraEjercicio\CalculadoraEjercicio.csproj", "{07667824-E0B6-435C-86F6-9DBFA1C80365}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiaSemana", "DiaSemana\DiaSemana.csproj", "{F8B3387D-4CCE-48F3-B90E-9891CB38FE94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiaSemana", "DiaSemana\DiaSemana.csproj", "{F8B3387D-4CCE-48F3-B90E-9891CB38FE94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipoVehiculo", "TipoVehiculo\TipoVehiculo.csproj", "{C9DCB4FA-9D90-4246-BBE1-FBBD90815AC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipoVehiculo", "TipoVehiculo\TipoVehiculo.csproj", "{C9DCB4FA-9D90-4246-BBE1-FBBD90815AC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalificacionesConLetras", "CalificacionesConLetras\CalificacionesConLetras.csproj", "{72B4B115-A57C-4CE5-8697-A0B63157586D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{C9DCB4FA-9D90-4246-BBE1-FBBD90815AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9DCB4FA-9D90-4246-BBE1-FBBD90815AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9DCB4FA-9D90-4246-BBE1-FBBD90815AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72B4B115-A57C-4CE5-8697-A0B63157586D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B4B115-A57C-4CE5-8697-A0B63157586D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B4B115-A57C-4CE5-8697-A0B63157586D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B4B115-A57C-4CE5-8697-A0B63157586D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
