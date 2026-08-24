@@ -1,6 +1,6 @@
 ﻿/*
  * Autor: Héctor Vega
- * Fecha: 21/08/2026
+ * Fecha: 24/08/2026
  * Ejercicio: Clasificador de Números con Centinela
  * Descripción: Lee números por consola, los clasifica en positivos/negativos
  * y calcula la suma de los positivos hasta que se ingresa un 0.
