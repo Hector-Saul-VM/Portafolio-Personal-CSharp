@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParentesisBalanceados", "ParentesisBalanceados\ParentesisBalanceados.csproj", "{E67705BE-4677-4E65-A9DF-4CD5143A09F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasificadorNumerosCentinela", "ClasificadorNumerosCentinela\ClasificadorNumerosCentinela.csproj", "{45623A2B-A37B-4C3F-8AE4-373F783440F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClasificadorNumerosCentinela", "ClasificadorNumerosCentinela\ClasificadorNumerosCentinela.csproj", "{45623A2B-A37B-4C3F-8AE4-373F783440F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContarPalabrasRepetidasBucles", "ContarPalabrasRepetidasBucles\ContarPalabrasRepetidasBucles.csproj", "{A304E2BD-0E82-4477-9994-D5BC5AB961FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{45623A2B-A37B-4C3F-8AE4-373F783440F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45623A2B-A37B-4C3F-8AE4-373F783440F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45623A2B-A37B-4C3F-8AE4-373F783440F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A304E2BD-0E82-4477-9994-D5BC5AB961FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A304E2BD-0E82-4477-9994-D5BC5AB961FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A304E2BD-0E82-4477-9994-D5BC5AB961FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A304E2BD-0E82-4477-9994-D5BC5AB961FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
