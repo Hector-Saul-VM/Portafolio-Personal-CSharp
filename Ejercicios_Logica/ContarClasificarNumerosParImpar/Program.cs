@@ -45,7 +45,7 @@ namespace ContarClasificarNumerosParImpar
             Console.WriteLine($"Pares: {paresContador}");
             Console.WriteLine($"Impares: {imparesContador}");
             Console.WriteLine($"Suma pares: {sumaPares}");
-            Console.WriteLine($"Suma impares: {sumaImpares}")
+            Console.WriteLine($"Suma impares: {sumaImpares}");
         }
     }
 }
