@@ -1,4 +1,13 @@
-﻿namespace InvertirOrdenPalabras
+﻿/*
+ * Autor: Héctor Vega
+ * Fecha: 26/08/2026
+ * Ejercicio: Inversor de Orden de Palabras
+ * Descripción: Lee una frase por consola, la divide en palabras
+ * y las muestra en orden inverso (de la última a la primera).
+ * Incluye control para evitar espacios al final.
+ */
+
+namespace InvertirOrdenPalabras
 {
     internal class Program
     {
@@ -15,7 +24,7 @@
             {
                 Console.Write(palabras[i]);
 
-                // Para evitar espacio al final es decir solo colocamos espacio si i no es 0 porque si no lo hacemos al imprimir empezaria con un espacio 
+                // Para evitar espacio al final 
                 if (i != 0)
                 {
                     Console.Write(" ");

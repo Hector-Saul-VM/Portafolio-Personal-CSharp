@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClasificadorNumerosCentinel
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContarPalabrasRepetidasBucles", "ContarPalabrasRepetidasBucles\ContarPalabrasRepetidasBucles.csproj", "{A304E2BD-0E82-4477-9994-D5BC5AB961FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvertirOrdenPalabras", "InvertirOrdenPalabras\InvertirOrdenPalabras.csproj", "{42002CD5-7460-4587-BA32-A2803383378C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InvertirOrdenPalabras", "InvertirOrdenPalabras\InvertirOrdenPalabras.csproj", "{42002CD5-7460-4587-BA32-A2803383378C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiltrarTransformarNumeros", "FiltrarTransformarNumeros\FiltrarTransformarNumeros.csproj", "{2412508A-F21A-40B9-B9F2-6370BEB8C03A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{42002CD5-7460-4587-BA32-A2803383378C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42002CD5-7460-4587-BA32-A2803383378C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42002CD5-7460-4587-BA32-A2803383378C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2412508A-F21A-40B9-B9F2-6370BEB8C03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2412508A-F21A-40B9-B9F2-6370BEB8C03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2412508A-F21A-40B9-B9F2-6370BEB8C03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2412508A-F21A-40B9-B9F2-6370BEB8C03A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
