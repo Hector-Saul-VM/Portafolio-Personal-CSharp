@@ -3,56 +3,6 @@ markdown
 
 Ejercicios, proyectos y prácticas en C#.
 
----
-
-## Estructura del Portafolio
-Portafolio-Personal-CSharp/
-│
-├── Ejercicios-Arreglos/
-│ └── MinimoMaximoYPromedioConArreglos.cs
-│
-├── EjerciciosIfElse/
-│ ├── DivisionCorrecta/
-│ ├── EjercicioLogicaFizzBuzz/
-│ ├── EjercicioNumeroPrimo/
-│ └── NumeroPositivoNegativoOCero/
-│
-├── Ejercicios_Do_While/
-│ └── Solicitud_Colores/
-│
-├── Ejercicios_Logica/
-│ ├── ClasificadorNumerosCentinela/
-│ ├── ContarPalabrasRepetidasBucles/
-│ ├── InvertirOrdenPalabras/
-│ └── ParentesisBalanceados/
-│
-├── Ejercicios_Switch/
-│ ├── CalculadoraEjercicio/
-│ ├── CalificacionesConLetras/
-│ ├── Codigos_RGB/
-│ ├── Colores_Basicos/
-│ ├── DiaSemana/
-│ └── TipoVehiculo/
-│
-├── Ejercicios_While/
-│ └── AdivinaNumerosConRandom/
-│
-├── EjerciciosvalorVrsReferencia/
-│ └── PracticaValorReferencia/
-│
-├── PrimerProyecto/
-│ └── PrimerProyecto_API/
-│
-├── RegistroEstudiantes/
-│
-├── SistemaGestionEmpleados/
-│
-└── 📄 README.md
-
-text
-
----
-
 ## Proyectos Destacados
 
 ### SistemaGestionEmpleados (API)
