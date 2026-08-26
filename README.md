@@ -47,6 +47,15 @@ Ejercicios, proyectos y prácticas en C#.
 - Incluye: Calculadora, Calificaciones, Colores RGB, Días de semana, Tipos de vehículo.
 - 📁 `Ejercicios_Switch/`
 
+### FiltrarTransformarNumeros
+- **Descripción:** Filtra múltiplos de 5 y transforma según regla (>=30 duplica, <30 triplica).
+- **Ejemplo:** `[3,10,15,20,25,30,35,40]` → `[30,45,60,75,60,70,80]`
+- 📁 `Ejercicios_Logica/FiltrarTransformarNumeros/`
+
+### ContarYClasificarNumeros
+- **Descripción:** Cuenta y suma números pares e impares de una lista.
+- **Ejemplo:** `[2,5,8,11,14,17,20,23]` → Pares: 4, Impares: 4, Suma pares: 44, Suma impares: 56
+- 📁 `Ejercicios_Logica/ContarYClasificarNumeros/`
 ---
 
 ## Tecnologías
